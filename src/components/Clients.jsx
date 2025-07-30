@@ -1,5 +1,5 @@
 import React from 'react';
-import 'C:/Users/dhine/portfolio/src/styles/clients.css';
+import '../styles/clients.css';
 import danda from '../assets/danda.png';
 import nirmal from '../assets/nirmal.png';
 

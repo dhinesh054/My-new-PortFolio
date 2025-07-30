@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import 'C:/Users/dhine/portfolio/src/styles/work.css';
+import '../styles/work.css';
 import Clients from './Clients';
 import veImage from '../assets/VE-1.jpg';
 

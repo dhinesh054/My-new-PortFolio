@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import 'C:/Users/dhine/portfolio/src/styles/reviews.css';
+import '../styles/reviews.css';
 
 const Reviews = () => {
   const reviews = [

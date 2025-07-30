@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
-import 'C:/Users/dhine/portfolio/src/styles/portfolio.css';
+import '../styles/portfolio.css';
 
 const Portfolio = () => {
   const location = useLocation();

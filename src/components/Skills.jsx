@@ -1,5 +1,5 @@
 import React from 'react';
-import 'C:/Users/dhine/portfolio/src/styles/skills.css';
+import '../styles/skills.css';
 import premierePro from '../assets/552225.png';
 import afterEffects from '../assets/552226.png';
 import davinci from '../assets/davinci.png';

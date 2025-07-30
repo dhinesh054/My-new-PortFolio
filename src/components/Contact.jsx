@@ -1,5 +1,5 @@
 import React from 'react';
-import 'C:/Users/dhine/portfolio/src/styles/contact.css';
+import '../styles/contact.css';
 
 const Contact = () => {
   return (
