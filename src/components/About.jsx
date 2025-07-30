@@ -1,5 +1,5 @@
 import React from 'react';
-import 'C:/Users/dhine/portfolio/src/styles/about.css';
+import "../styles/about.css";
 
 const About = () => {
   return (
